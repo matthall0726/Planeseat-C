@@ -1,20 +1,3 @@
-/*
-Student name: Matthew Hall
-PantherID: 6327302
-Date: 9/11/2022
-Class: COP4338
-
-I affirm that I wrote this program myself without any help from any other people or sources from the internet.
-This program is solely my work and no one elses.
-
-Program Discription:
-
-This program called "planeseats" is designed to assign plane seats to users that request them.
-Their are four first class ticket and 8 economy. Upon request the program will assign you a ticket
-is the specified area, unless thhe seats are sold out. At which it will prompt you to answer whether 
-you would like to be assigned to a different section.
-
-*/
 
 #include <stdio.h>
 #include <stdbool.h>
